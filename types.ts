@@ -1,21 +1,27 @@
 
 export interface Product {
   id: string;
-  name: string;
-  category: string;
+  name: Record<Language, string>;
+  category: Category;
   image: string;
-  description: string;
-  features: string[];
+  description: Record<Language, string>;
+  features: Record<Language, string[]>;
 }
 
 export enum Category {
-  LIVING_ROOM = 'Oturma Odası',
-  BEDROOM = 'Yatak Odası',
-  DINING_ROOM = 'Yemek Odası',
-  OFFICE = 'Ofis Mobilyaları'
+  LIVING_ROOM = 'LIVING_ROOM',
+  BEDROOM = 'BEDROOM',
+  DINING_ROOM = 'DINING_ROOM',
+  OFFICE = 'OFFICE'
 }
+
+export type Language = 'ro' | 'en';
 
 export interface ChatMessage {
   role: 'user' | 'assistant';
   content: string;
+}
+
+export interface TranslationDict {
+  [key: string]: Record<Language, string>;
 }
