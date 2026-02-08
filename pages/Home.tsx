@@ -23,11 +23,11 @@ const Home: React.FC = () => {
       <section className="relative h-[90vh] flex items-center overflow-hidden">
         <div className="absolute inset-0">
           <img 
-            src="https://images.unsplash.com/photo-1555041469-a586c61ea9bc?q=80&w=2070&auto=format&fit=crop" 
+            src="https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?q=80&w=2070&auto=format&fit=crop" 
             alt="Hero Background" 
             className="w-full h-full object-cover scale-105"
           />
-          <div className="absolute inset-0 bg-black/30" />
+          <div className="absolute inset-0 bg-black/40" />
         </div>
         
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full">
@@ -181,11 +181,11 @@ const Home: React.FC = () => {
             alt="CTA Background" 
             className="w-full h-full object-cover"
           />
-          <div className="absolute inset-0 bg-stone-900/60" />
+          <div className="absolute inset-0 bg-stone-900/70" />
         </div>
         <div className="relative max-w-4xl mx-auto px-4 text-center text-white">
-          <h2 className="text-4xl md:text-6xl font-bold mb-8">Hayalinizdeki Evi <br /> Birlikte Tasarlayalım</h2>
-          <p className="text-lg text-stone-200 mb-10 max-w-2xl mx-auto">Uzman iç mimarlarımızla ücretsiz danışmanlık randevusu alarak yaşam alanlarınızı yeniden keşfedin.</p>
+          <h2 className="text-4xl md:text-6xl font-bold mb-8 uppercase tracking-tighter">Hayalinizdeki Evi <br /> Birlikte Tasarlayalım</h2>
+          <p className="text-lg text-stone-200 mb-10 max-w-2xl mx-auto font-light italic">Uzman iç mimarlarımızla ücretsiz danışmanlık randevusu alarak yaşam alanlarınızı yeniden keşfedin.</p>
           <NavLink 
             to="/contact"
             className="inline-block bg-amber-700 text-white px-10 py-5 rounded-sm font-semibold uppercase tracking-widest hover:bg-amber-800 transition-colors shadow-2xl active:scale-95 transition-transform"

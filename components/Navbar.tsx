@@ -2,7 +2,7 @@
 import React, { useState } from 'react';
 import { NavLink } from 'react-router-dom';
 import { Menu, X, ChevronDown, Search } from 'lucide-react';
-import { NAV_LINKS } from '../constants';
+import { NAV_LINKS, Logo } from '../constants';
 import { Category } from '../types';
 
 const Navbar: React.FC = () => {
@@ -21,8 +21,8 @@ const Navbar: React.FC = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between h-20 items-center">
           {/* Logo Section */}
-          <NavLink to="/" className="flex items-center h-12">
-            <img src="/logo.png" alt="Distriburom Logo" className="h-full w-auto object-contain" />
+          <NavLink to="/" className="flex items-center">
+            <Logo className="h-10 w-auto" />
           </NavLink>
 
           {/* Desktop Nav */}

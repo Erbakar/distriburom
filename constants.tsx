@@ -1,5 +1,18 @@
 
+import React from 'react';
 import { Category, Product } from './types';
+
+// Logo SVG Component for consistency
+export const Logo = ({ className = "h-12" }: { className?: string }) => (
+  <svg viewBox="0 0 500 150" className={className} fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M40 110V50C40 40 45 35 55 35H90" stroke="#5D3A1A" strokeWidth="8" strokeLinecap="round"/>
+    <path d="M40 85H110V130" stroke="#5D3A1A" strokeWidth="8" strokeLinecap="round"/>
+    <path d="M110 85H125V130" stroke="#5D3A1A" strokeWidth="8" strokeLinecap="round"/>
+    <circle cx="95" cy="40" r="15" stroke="#5D3A1A" strokeWidth="6"/>
+    <path d="M80 40H110" stroke="#5D3A1A" strokeWidth="6"/>
+    <text x="160" y="105" fontFamily="Playfair Display, serif" fontSize="62" fontWeight="bold" fill="#5D3A1A">DISTRIBUROM</text>
+  </svg>
+);
 
 export const PRODUCTS: Product[] = [
   // LIVING ROOM
