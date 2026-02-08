@@ -2,38 +2,52 @@
 import React from 'react';
 import { Category, Product } from './types';
 
-// Robust SVG Logo Component
+// Refined Professional Logo SVG with Chair and Lamp icon
 export const Logo = ({ className = "h-12" }: { className?: string }) => (
   <svg 
-    viewBox="0 0 520 120" 
+    viewBox="0 0 540 120" 
     className={className} 
     xmlns="http://www.w3.org/2000/svg"
-    preserveAspectRatio="xMidYMid meet"
+    preserveAspectRatio="xMinYMid meet"
+    style={{ minWidth: '180px' }}
   >
-    <g fill="none" stroke="currentColor" strokeWidth="6" strokeLinecap="round" strokeLinejoin="round">
-      {/* Upper Lamp Part */}
-      <path d="M40 10 L40 25" strokeWidth="4" />
-      <path d="M25 40 A15 15 0 0 1 55 40" fill="none" />
-      <line x1="25" y1="40" x2="55" y2="40" strokeWidth="2" />
+    {/* Icon Group: Chair and Lamp */}
+    <g fill="none" stroke="currentColor" strokeWidth="5.5" strokeLinecap="round" strokeLinejoin="round">
+      {/* Minimalist Chair */}
+      <path d="M30 40 V105 H75" /> {/* Back and Seat Base */}
+      <path d="M30 75 H75 V105" /> {/* Seat and Front Leg */}
+      <path d="M30 105 L25 112" strokeWidth="4" /> {/* Back Leg Detail */}
+      <path d="M75 105 L80 112" strokeWidth="4" /> {/* Front Leg Detail */}
       
-      {/* Chair Structure (Modernist 'D' Shape) */}
-      <path d="M15 50 L15 110 L75 110" />
-      <path d="M15 80 L65 80 L65 110" />
-      <path d="M65 80 L75 45 L90 45" />
-      <path d="M15 55 L35 55" />
+      {/* Modern Floor Lamp */}
+      <path d="M105 110 H135" strokeWidth="4" /> {/* Base */}
+      <path d="M120 110 V45" /> {/* Stem */}
+      <path d="M100 45 H140 L132 20 H108 L100 45 Z" fill="currentColor" fillOpacity="0.1" /> {/* Lampshade */}
     </g>
     
-    {/* Brand Name */}
+    {/* Brand Text */}
     <text 
-      x="110" 
-      y="95" 
-      fontFamily="'Inter', sans-serif" 
-      fontSize="58" 
-      fontWeight="600" 
-      letterSpacing="2" 
+      x="165" 
+      y="82" 
+      fontFamily="'Playfair Display', serif" 
+      fontSize="52" 
+      fontWeight="700" 
+      letterSpacing="1.5" 
       fill="currentColor"
     >
       DISTRIBUROM
+    </text>
+    <text 
+      x="167" 
+      y="105" 
+      fontFamily="'Inter', sans-serif" 
+      fontSize="12" 
+      fontWeight="600" 
+      letterSpacing="6" 
+      fill="currentColor" 
+      opacity="0.6"
+    >
+      MODERN FURNITURE
     </text>
   </svg>
 );

@@ -33,7 +33,7 @@ const Home: React.FC = () => {
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full">
           <div className="max-w-2xl text-white">
             <span className="inline-block px-4 py-1 bg-white/10 backdrop-blur-sm border border-white/20 text-xs uppercase tracking-widest mb-6 animate-in slide-in-from-left duration-700">
-              Yeni Koleksiyon 2024
+              Yeni Koleksiyon 2026
             </span>
             <h1 className="text-5xl md:text-7xl font-bold mb-8 leading-[1.1] animate-in slide-in-from-left delay-100 duration-700">
               Yaşam Alanlarınıza <br /> <span className="italic text-amber-100">Ruh Katın</span>
