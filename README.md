@@ -1,20 +1,41 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Distriburom — Design de Mobilier Modern
 
-# Run and deploy your AI Studio app
+Mobilier modern kataloğu ve web sitesi. Yerel ortamda veya istediğiniz platformda çalıştırıp yayına alabilirsiniz.
 
-This contains everything you need to run your app locally.
+## Gereksinimler
 
-View your app in AI Studio: https://ai.studio/apps/drive/15qfL71FRSU5Vc7BPcVHxawxYzpFZ5gjT
+- Node.js (LTS önerilir)
 
-## Run Locally
+## Yerel Çalıştırma
 
-**Prerequisites:**  Node.js
+1. Bağımlılıkları yükleyin:
+   ```bash
+   npm install
+   ```
 
+2. Geliştirme sunucusunu başlatın:
+   ```bash
+   npm run dev
+   ```
+   Uygulama varsayılan olarak http://localhost:3000 adresinde açılır.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Build ve Önizleme
+
+- Production build:
+  ```bash
+  npm run build
+  ```
+
+- Build çıktısını yerel önizleme:
+  ```bash
+  npm run preview
+  ```
+
+## Proje Yapısı
+
+- `App.tsx` — Ana uygulama ve dil yönetimi
+- `components/` — Navbar, Footer, Chatbot
+- `pages/` — Sayfa bileşenleri (Home, Products, Contact, vb.)
+- `services/geminiService.ts` — Chatbot için yerel asistan yanıtları (harici API yok)
+
+Tamamen frontend projesidir; harici API veya backend gerekmez.
