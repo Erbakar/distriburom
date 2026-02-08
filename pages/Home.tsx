@@ -11,10 +11,10 @@ const Home: React.FC = () => {
   const categoryList = Object.values(Category);
 
   const visualCategories = [
-    { title: Category.LIVING_ROOM, img: 'https://images.unsplash.com/photo-1583847268964-b28dc2f51ac9?auto=format&fit=crop&q=80&w=800', size: 'col-span-1 row-span-2' },
-    { title: Category.BEDROOM, img: 'https://images.unsplash.com/photo-1505693419148-ad3b47385f6c?auto=format&fit=crop&q=80&w=800', size: 'col-span-1 row-span-1' },
-    { title: Category.DINING_ROOM, img: 'https://images.unsplash.com/photo-1617806118233-f8e187f42b94?auto=format&fit=crop&q=80&w=800', size: 'col-span-1 row-span-1' },
-    { title: Category.OFFICE, img: 'https://images.unsplash.com/photo-1518455027359-f3f8164ba6bd?auto=format&fit=crop&q=80&w=800', size: 'col-span-2 row-span-1' },
+    { title: Category.LIVING_ROOM, img: 'https://images.unsplash.com/photo-1586023492125-27b2c045efd7?q=80&w=800&auto=format&fit=crop', size: 'col-span-1 row-span-2' },
+    { title: Category.BEDROOM, img: 'https://images.unsplash.com/photo-1616594111350-bf9261bad720?q=80&w=800&auto=format&fit=crop', size: 'col-span-1 row-span-1' },
+    { title: Category.DINING_ROOM, img: 'https://images.unsplash.com/photo-1577145900570-4c959824499f?q=80&w=800&auto=format&fit=crop', size: 'col-span-1 row-span-1' },
+    { title: Category.OFFICE, img: 'https://images.unsplash.com/photo-1497215728101-856f4ea42174?q=80&w=800&auto=format&fit=crop', size: 'col-span-2 row-span-1' },
   ];
 
   return (

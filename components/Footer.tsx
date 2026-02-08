@@ -10,8 +10,8 @@ const Footer: React.FC = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-16 mb-24">
           <div className="space-y-10">
-            <NavLink to="/" className="inline-block">
-              <Logo className="h-10 w-auto brightness-0 invert opacity-90" />
+            <NavLink to="/" className="inline-block text-stone-100">
+              <Logo className="h-10 w-auto min-w-[180px] opacity-90" />
             </NavLink>
             <p className="text-[10px] leading-relaxed uppercase tracking-[0.2em] opacity-50 font-medium">
               Modern yaşam alanlarınız için estetik, fonksiyonellik ve kaliteyi bir araya getiren mobilya çözümleri sunuyoruz.

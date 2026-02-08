@@ -10,19 +10,19 @@ const Navbar: React.FC = () => {
   const [isMegaOpen, setIsMegaOpen] = useState(false);
 
   const categories = [
-    { title: Category.LIVING_ROOM, img: 'https://images.unsplash.com/photo-1583847268964-b28dc2f51ac9?auto=format&fit=crop&q=80&w=800', desc: 'Konfor ve estetiğin buluşması.' },
-    { title: Category.BEDROOM, img: 'https://images.unsplash.com/photo-1505693419148-ad3b47385f6c?auto=format&fit=crop&q=80&w=800', desc: 'Rüya gibi bir uyku deneyimi.' },
-    { title: Category.DINING_ROOM, img: 'https://images.unsplash.com/photo-1617806118233-f8e187f42b94?auto=format&fit=crop&q=80&w=800', desc: 'Paylaşılan en güzel anlar için.' },
-    { title: Category.OFFICE, img: 'https://images.unsplash.com/photo-1518455027359-f3f8164ba6bd?auto=format&fit=crop&q=80&w=800', desc: 'Verimli ve şık çalışma alanları.' },
+    { title: Category.LIVING_ROOM, img: 'https://images.unsplash.com/photo-1567016432779-094069958ad5?q=80&w=800&auto=format&fit=crop', desc: 'Konfor ve estetiğin buluşması.' },
+    { title: Category.BEDROOM, img: 'https://images.unsplash.com/photo-1522771739844-6a9f6d5f14af?q=80&w=800&auto=format&fit=crop', desc: 'Rüya gibi bir uyku deneyimi.' },
+    { title: Category.DINING_ROOM, img: 'https://images.unsplash.com/photo-1617806118233-f8e187f42b94?q=80&w=800&auto=format&fit=crop', desc: 'Paylaşılan en güzel anlar için.' },
+    { title: Category.OFFICE, img: 'https://images.unsplash.com/photo-1524758631624-e2822e304c36?q=80&w=800&auto=format&fit=crop', desc: 'Verimli ve şık çalışma alanları.' },
   ];
 
   return (
     <nav className="fixed top-0 left-0 w-full bg-white/95 backdrop-blur-md z-50 border-b border-stone-200 shadow-sm">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between h-20 items-center">
-          {/* Logo Section */}
-          <NavLink to="/" className="flex items-center">
-            <Logo className="h-10 w-auto" />
+          {/* Logo Section - Brown text-stone-800 color */}
+          <NavLink to="/" className="flex items-center text-stone-800">
+            <Logo className="h-10 w-auto min-w-[180px]" />
           </NavLink>
 
           {/* Desktop Nav */}
