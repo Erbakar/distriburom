@@ -2,8 +2,7 @@
 import React, { useState, useEffect, useContext } from 'react';
 import { useLocation, useNavigate } from 'react-router-dom';
 import { Heart, Search, Eye } from 'lucide-react';
-import { PRODUCTS, UI_STRINGS, CATEGORY_LABELS } from '../constants';
-import { Category } from '../types';
+import { PRODUCTS, UI_STRINGS, CATEGORY_LABELS, CATEGORIES } from '../constants';
 import { LanguageContext } from '../App';
 
 const Products: React.FC = () => {
@@ -26,7 +25,7 @@ const Products: React.FC = () => {
     return matchesCat && matchesSearch;
   });
 
-  const categories = ['ALL', ...Object.values(Category)];
+  const categories = ['ALL', ...CATEGORIES];
 
   return (
     <div className="pt-32 pb-24 min-h-screen">
@@ -50,7 +49,7 @@ const Products: React.FC = () => {
                   : 'bg-stone-100 text-stone-600 hover:bg-stone-200'
                 }`}
               >
-                {cat === 'ALL' ? UI_STRINGS.all_collections[lang] : CATEGORY_LABELS[cat as Category][lang]}
+                {cat === 'ALL' ? UI_STRINGS.all_collections[lang] : (CATEGORY_LABELS[cat]?.[lang] ?? cat)}
               </button>
             ))}
           </div>
@@ -83,7 +82,7 @@ const Products: React.FC = () => {
                 />
                 <div className="absolute top-4 left-4">
                   <span className="bg-white/90 backdrop-blur-sm px-3 py-1 text-[8px] font-bold uppercase tracking-widest text-stone-900 shadow-sm">
-                    {CATEGORY_LABELS[product.category][lang]}
+                    {CATEGORY_LABELS[product.category]?.[lang] ?? product.category}
                   </span>
                 </div>
                 <div className="absolute inset-0 bg-black/5 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center gap-4">

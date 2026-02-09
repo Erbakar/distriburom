@@ -2,8 +2,7 @@
 import React, { useState, useContext } from 'react';
 import { NavLink } from 'react-router-dom';
 import { Menu, X, ChevronDown, Search, Globe } from 'lucide-react';
-import { NAV_LINKS, Logo, UI_STRINGS, CATEGORY_LABELS } from '../constants';
-import { Category } from '../types';
+import { NAV_LINKS, Logo, UI_STRINGS, CATEGORY_LABELS, CATEGORIES, PRODUCTS } from '../constants';
 import { LanguageContext } from '../App';
 
 const Navbar: React.FC = () => {
@@ -11,12 +10,11 @@ const Navbar: React.FC = () => {
   const [isMegaOpen, setIsMegaOpen] = useState(false);
   const { lang, setLang } = useContext(LanguageContext);
 
-  const categories = [
-    { type: Category.LIVING_ROOM, img: 'https://images.unsplash.com/photo-1583847268964-b28dc2f51ac9?q=80&w=800&auto=format&fit=crop', desc: { ro: 'Confort și estetică.', en: 'Comfort and aesthetics.' } },
-    { type: Category.BEDROOM, img: 'https://images.unsplash.com/photo-1505693419148-ad3b47385f6c?q=80&w=800&auto=format&fit=crop', desc: { ro: 'O experiență de somn divină.', en: 'A divine sleep experience.' } },
-    { type: Category.DINING_ROOM, img: 'https://images.unsplash.com/photo-1617806118233-f8e187f42b94?q=80&w=800&auto=format&fit=crop', desc: { ro: 'Pentru momente prețioase.', en: 'For precious shared moments.' } },
-    { type: Category.OFFICE, img: 'https://images.unsplash.com/photo-1524758631624-e2822e304c36?q=80&w=800&auto=format&fit=crop', desc: { ro: 'Spații de lucru eficiente.', en: 'Efficient workspaces.' } },
-  ];
+  const categories = CATEGORIES.map(cat => ({
+    type: cat,
+    img: PRODUCTS.find(p => p.category === cat)?.image || 'https://images.unsplash.com/photo-1583847268964-b28dc2f51ac9?q=80&w=800&auto=format&fit=crop',
+    desc: { ro: 'Descoperă colecția.', en: 'Discover the collection.' },
+  }));
 
   const toggleLang = () => setLang(lang === 'ro' ? 'en' : 'ro');
 
@@ -58,7 +56,7 @@ const Navbar: React.FC = () => {
                         <div className="aspect-[4/3] overflow-hidden mb-4 bg-stone-100 rounded-sm">
                           <img src={cat.img} alt={cat.type} className="w-full h-full object-cover group-hover/item:scale-110 transition-transform duration-700" />
                         </div>
-                        <h4 className="font-bold text-stone-900 mb-1 uppercase tracking-tight text-xs">{CATEGORY_LABELS[cat.type][lang]}</h4>
+                        <h4 className="font-bold text-stone-900 mb-1 uppercase tracking-tight text-xs">{CATEGORY_LABELS[cat.type]?.[lang] ?? cat.type}</h4>
                         <p className="text-[9px] text-stone-400 uppercase tracking-widest leading-relaxed">{cat.desc[lang]}</p>
                       </NavLink>
                     ))}
@@ -106,7 +104,7 @@ const Navbar: React.FC = () => {
                 onClick={() => setIsOpen(false)}
                 className="text-[10px] uppercase tracking-widest text-stone-500 font-semibold bg-stone-50 p-3 rounded-sm text-center"
               >
-                {CATEGORY_LABELS[cat.type][lang]}
+                {CATEGORY_LABELS[cat.type]?.[lang] ?? cat.type}
               </NavLink>
             ))}
           </div>

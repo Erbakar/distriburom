@@ -2,22 +2,25 @@
 import React, { useContext } from 'react';
 import { NavLink, useNavigate } from 'react-router-dom';
 import { ArrowRight, Star, Clock, Heart, Eye } from 'lucide-react';
-import { Category } from '../types';
-import { PRODUCTS, UI_STRINGS, CATEGORY_LABELS } from '../constants';
+import { PRODUCTS, UI_STRINGS, CATEGORY_LABELS, CATEGORIES } from '../constants';
 import { LanguageContext } from '../App';
+
+const PLACEHOLDER_IMG = 'https://images.unsplash.com/photo-1586023492125-27b2c045efd7?q=80&w=800&auto=format&fit=crop';
 
 const Home: React.FC = () => {
   const navigate = useNavigate();
   const { lang } = useContext(LanguageContext);
-  
-  const categoryList = Object.values(Category);
 
-  const visualCategories = [
-    { title: Category.LIVING_ROOM, img: 'https://images.unsplash.com/photo-1586023492125-27b2c045efd7?q=80&w=800&auto=format&fit=crop', size: 'col-span-1 row-span-2' },
-    { title: Category.BEDROOM, img: 'https://images.unsplash.com/photo-1616594111350-bf9261bad720?q=80&w=800&auto=format&fit=crop', size: 'col-span-1 row-span-1' },
-    { title: Category.DINING_ROOM, img: 'https://images.unsplash.com/photo-1577145900570-4c959824499f?q=80&w=800&auto=format&fit=crop', size: 'col-span-1 row-span-1' },
-    { title: Category.OFFICE, img: 'https://images.unsplash.com/photo-1497215728101-856f4ea42174?q=80&w=800&auto=format&fit=crop', size: 'col-span-2 row-span-1' },
-  ];
+  const visualCategories = CATEGORIES.map((cat, i) => {
+    const firstProduct = PRODUCTS.find(p => p.category === cat);
+    const sizes = CATEGORIES.length === 1 ? ['col-span-1 row-span-2'] : ['col-span-1 row-span-2', 'col-span-1 row-span-1', 'col-span-1 row-span-1', 'col-span-2 row-span-1'];
+    return {
+      title: cat,
+      img: firstProduct?.image || PLACEHOLDER_IMG,
+      size: sizes[i % sizes.length] || 'col-span-1 row-span-1',
+    };
+  });
+  const categoryList = CATEGORIES;
 
   return (
     <div className="pt-20">
@@ -61,12 +64,12 @@ const Home: React.FC = () => {
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 auto-rows-[300px]">
-          {visualCategories.map((cat) => (
+          {visualCategories.length > 0 && visualCategories.map((cat) => (
             <NavLink key={cat.title} to={`/products?cat=${cat.title}`} className={`relative overflow-hidden group rounded-sm shadow-sm ${cat.size}`}>
-              <img src={cat.img} alt={cat.title} className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700" />
+              <img src={cat.img} alt={CATEGORY_LABELS[cat.title]?.[lang] || cat.title} className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700" />
               <div className="absolute inset-0 bg-black/20 group-hover:bg-black/40 transition-colors" />
               <div className="absolute bottom-0 left-0 p-8 w-full">
-                <h3 className="text-white text-2xl font-bold mb-2 uppercase tracking-tight">{CATEGORY_LABELS[cat.title][lang]}</h3>
+                <h3 className="text-white text-2xl font-bold mb-2 uppercase tracking-tight">{CATEGORY_LABELS[cat.title]?.[lang] || cat.title}</h3>
                 <div className="flex items-center text-white/0 group-hover:text-white/100 transition-all duration-300 transform translate-y-4 group-hover:translate-y-0">
                   <span className="text-sm uppercase tracking-widest font-medium">{UI_STRINGS.examine[lang]}</span>
                   <ArrowRight size={16} className="ml-2" />
@@ -105,8 +108,8 @@ const Home: React.FC = () => {
             <div key={category} className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
               <div className="flex flex-col md:flex-row justify-between items-end mb-10 gap-4 border-b border-stone-100 pb-8">
                 <div>
-                  <h3 className="text-3xl font-bold text-stone-900 uppercase tracking-tighter">{CATEGORY_LABELS[category][lang]}</h3>
-                  <p className="text-stone-500 mt-2 italic text-sm">{lang === 'ro' ? `Soluții moderne și funcționale pentru ${CATEGORY_LABELS[category][lang].toLowerCase()}.` : `Modern solutions for your ${CATEGORY_LABELS[category][lang].toLowerCase()}.`}</p>
+                  <h3 className="text-3xl font-bold text-stone-900 uppercase tracking-tighter">{CATEGORY_LABELS[category]?.[lang] ?? category}</h3>
+                  <p className="text-stone-500 mt-2 italic text-sm">{lang === 'ro' ? `Soluții moderne și funcționale pentru ${(CATEGORY_LABELS[category]?.[lang] ?? category).toLowerCase()}.` : `Modern solutions for your ${(CATEGORY_LABELS[category]?.[lang] ?? category).toLowerCase()}.`}</p>
                 </div>
                 <NavLink to={`/products?cat=${category}`} className="text-amber-800 font-semibold text-[10px] uppercase tracking-[0.2em] flex items-center gap-2 group">
                   {UI_STRINGS.see_all[lang]} <ArrowRight size={16} className="group-hover:translate-x-1 transition-transform" />
@@ -123,7 +126,7 @@ const Home: React.FC = () => {
                     </div>
                     <div>
                       <h4 className="font-medium text-stone-900 group-hover:text-amber-800 transition-colors uppercase tracking-tight text-sm">{product.name[lang]}</h4>
-                      <p className="text-stone-400 text-[10px] mt-1 uppercase tracking-widest">{CATEGORY_LABELS[product.category][lang]}</p>
+                      <p className="text-stone-400 text-[10px] mt-1 uppercase tracking-widest">{CATEGORY_LABELS[product.category]?.[lang] ?? product.category}</p>
                     </div>
                   </div>
                 ))}

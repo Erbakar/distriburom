@@ -1,6 +1,8 @@
 
 import React from 'react';
-import { Category, Product, Language, TranslationDict } from './types';
+import { Product, Language, TranslationDict } from './types';
+// Ürün ve kategoriler: scripts/generate-products.cjs + PRODUCTS.xlsx + public/images/{SKU}
+import productsData from './products.generated.json';
 
 export const Logo = ({ className = "h-12" }: { className?: string }) => (
   <svg 
@@ -57,47 +59,12 @@ export const UI_STRINGS: TranslationDict = {
   prod_not_found: { ro: 'Produsul nu a fost găsit.', en: 'Product not found.' }
 };
 
-export const CATEGORY_LABELS: Record<Category, Record<Language, string>> = {
-  [Category.LIVING_ROOM]: { ro: 'Camera de zi', en: 'Living Room' },
-  [Category.BEDROOM]: { ro: 'Dormitor', en: 'Bedroom' },
-  [Category.DINING_ROOM]: { ro: 'Sufragerie', en: 'Dining Room' },
-  [Category.OFFICE]: { ro: 'Mobilier Birou', en: 'Office Furniture' }
-};
+/** Kategori anahtarları (Excel’deki Categorie sütunundan). */
+export const CATEGORIES: string[] = productsData.categories as string[];
 
-export const PRODUCTS: Product[] = [
-  {
-    id: '1',
-    name: { ro: 'Canapea Nordic', en: 'Nordic Sofa' },
-    category: Category.LIVING_ROOM,
-    image: 'https://images.unsplash.com/photo-1555041469-a586c61ea9bc?q=80&w=800&auto=format&fit=crop',
-    description: { ro: 'Design scandinav minimalist, combinând confortul cu stilul rafinat.', en: 'Minimalist Scandinavian design, combining comfort and style.' },
-    features: { ro: ['100% In', 'Picioare din lemn de fag', 'Design ergonomic'], en: ['100% Linen', 'Beech wood legs', 'Ergonomic design'] }
-  },
-  {
-    id: '2',
-    name: { ro: 'Set de pat Zen', en: 'Zen Bed Set' },
-    category: Category.BEDROOM,
-    image: 'https://images.unsplash.com/photo-1505693419148-ad3b47385f6c?q=80&w=800&auto=format&fit=crop',
-    description: { ro: 'Texturi naturale și culori liniștitoare pentru un somn odihnitor.', en: 'Natural textures and soothing colors for a peaceful sleep.' },
-    features: { ro: ['Stejar masiv', 'Spațiu generos de depozitare', 'Sistem silențios'], en: ['Solid Oak', 'Large storage space', 'Silent rail system'] }
-  },
-  {
-    id: '3',
-    name: { ro: 'Masă Dining Marble', en: 'Marble Dining Table' },
-    category: Category.DINING_ROOM,
-    image: 'https://images.unsplash.com/photo-1617806118233-f8e187f42b94?q=80&w=800&auto=format&fit=crop',
-    description: { ro: 'Blat din marmură veritabilă și picioare metalice pentru o experiență de lux.', en: 'Genuine marble top and metal legs for a luxury dining experience.' },
-    features: { ro: ['Marmură italiană', 'Capacitate 6 persoane', 'Suprafață anti-zgârieturi'], en: ['Italian Marble', '6 Person capacity', 'Scratch resistant'] }
-  },
-  {
-    id: '4',
-    name: { ro: 'Birou Aura', en: 'Aura Desk' },
-    category: Category.OFFICE,
-    image: 'https://images.unsplash.com/photo-1518455027359-f3f8164ba6bd?q=80&w=800&auto=format&fit=crop',
-    description: { ro: 'Spațiu de lucru compact și funcțional pentru birouri moderne.', en: 'Compact and functional workspace for modern offices.' },
-    features: { ro: ['Canal cabluri', 'Înălțime reglabilă', 'Construcție din oțel'], en: ['Cable management', 'Adjustable height', 'Steel construction'] }
-  }
-];
+export const CATEGORY_LABELS: Record<string, Record<Language, string>> = productsData.categoryLabels as Record<string, Record<Language, string>>;
+
+export const PRODUCTS: Product[] = productsData.products as Product[];
 
 export const NAV_LINKS = [
   { label: 'home', path: '/' },

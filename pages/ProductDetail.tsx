@@ -48,11 +48,11 @@ const ProductDetail: React.FC = () => {
                 className="w-full h-full object-cover hover:scale-105 transition-transform duration-700"
               />
             </div>
-            {/* Minimalist gallery placeholder */}
+            {/* Galeri: SKU klasöründeki tüm resimler */}
             <div className="grid grid-cols-4 gap-4">
-              {[1, 2, 3].map((i) => (
+              {(product.images && product.images.length > 0 ? product.images : [product.image]).map((src, i) => (
                 <div key={i} className="aspect-square bg-stone-100 rounded-sm overflow-hidden opacity-60 hover:opacity-100 cursor-pointer transition-opacity">
-                   <img src={product.image} alt="Gallery" className="w-full h-full object-cover" />
+                  <img src={src} alt={`${product.name[lang]} ${i + 1}`} className="w-full h-full object-cover" />
                 </div>
               ))}
             </div>
@@ -62,7 +62,7 @@ const ProductDetail: React.FC = () => {
           <div className="sticky top-32">
             <div className="mb-8 border-b border-stone-100 pb-8">
               <span className="text-amber-700 text-[10px] font-bold uppercase tracking-[0.3em] mb-4 block">
-                {CATEGORY_LABELS[product.category][lang]}
+                {CATEGORY_LABELS[product.category]?.[lang] ?? product.category}
               </span>
               {/* Fix: Access localized name and description */}
               <h1 className="text-4xl md:text-5xl font-bold text-stone-900 mb-4 uppercase tracking-tighter leading-none">{product.name[lang]}</h1>
@@ -76,7 +76,7 @@ const ProductDetail: React.FC = () => {
                 <h3 className="text-[10px] font-bold uppercase tracking-[0.2em] text-stone-400 mb-4">{UI_STRINGS.features[lang]}</h3>
                 <ul className="grid grid-cols-1 sm:grid-cols-2 gap-4">
                   {/* Fix: Access localized features array */}
-                  {product.features[lang].map((feature, idx) => (
+                  {(product.features[lang] || []).map((feature, idx) => (
                     <li key={idx} className="flex items-center gap-3 text-xs text-stone-700 font-medium">
                       <div className="w-1.5 h-1.5 bg-amber-700 rounded-full" />
                       {feature}

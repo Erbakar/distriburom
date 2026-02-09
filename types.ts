@@ -1,19 +1,17 @@
 
 export interface Product {
   id: string;
+  sku?: string;
   name: Record<Language, string>;
-  category: Category;
+  category: string;
   image: string;
+  images?: string[];
   description: Record<Language, string>;
   features: Record<Language, string[]>;
 }
 
-export enum Category {
-  LIVING_ROOM = 'LIVING_ROOM',
-  BEDROOM = 'BEDROOM',
-  DINING_ROOM = 'DINING_ROOM',
-  OFFICE = 'OFFICE'
-}
+/** Kategoriler products.generated.json içinden gelir (Excel + image klasörlerine göre). */
+export type Category = string;
 
 export type Language = 'ro' | 'en';
 

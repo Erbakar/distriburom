@@ -1,0 +1,1297 @@
+{
+  "categories": [
+    "CANAPELE_EXTENSIBILE"
+  ],
+  "categoryLabels": {
+    "CANAPELE_EXTENSIBILE": {
+      "ro": "CANAPELE EXTENSIBILE",
+      "en": "Canapele Extensibile"
+    }
+  },
+  "products": [
+    {
+      "id": "1000",
+      "sku": "1000",
+      "name": {
+        "ro": "Canapea extensibilă Baran, 3 locuri, material textil gri melanj, cu ladă depozitare şi arcuri 210*78*78",
+        "en": "Canapea extensibilă Baran, 3 locuri, material textil gri melanj, cu ladă depozitare şi arcuri 210*78*78"
+      },
+      "category": "CANAPELE_EXTENSIBILE",
+      "image": "/images/1000/0739113541000%20-%201.jpg",
+      "images": [
+        "/images/1000/0739113541000%20-%201.jpg",
+        "/images/1000/0739113541000%20-%204.jpg",
+        "/images/1000/0739113541000%20-%205.jpg",
+        "/images/1000/0739113541000-%202.jpg",
+        "/images/1000/0739113541000-%203.jpg"
+      ],
+      "description": {
+        "ro": "Canapea extensibilă Baran, 3 locuri gri melanj, ideală pentru living, cu ladă depozitare și confort zilnic. Material rezistent, preț accesibil. Garanție 2 ani.",
+        "en": "Canapea extensibilă Baran, 3 locuri gri melanj, ideală pentru living, cu ladă depozitare și confort zilnic. Material rezistent, preț accesibil. Garanție 2 ani."
+      },
+      "features": {
+        "ro": [
+          "Culoare: gri melanj",
+          "Dimensiuni: 210*78*78 / 180*103*43"
+        ],
+        "en": [
+          "Color: gri melanj",
+          "Dimensions: 210*78*78 / 180*103*43"
+        ]
+      }
+    },
+    {
+      "id": "1001",
+      "sku": "1001",
+      "name": {
+        "ro": "Canapea extensibilă Baran, 3 locuri, material textil gri închis, cu ladă depozitare şi arcuri 210*78*78",
+        "en": "Canapea extensibilă Baran, 3 locuri, material textil gri închis, cu ladă depozitare şi arcuri 210*78*78"
+      },
+      "category": "CANAPELE_EXTENSIBILE",
+      "image": "/images/1001/0739113541017%20-%201.jpg",
+      "images": [
+        "/images/1001/0739113541017%20-%201.jpg",
+        "/images/1001/0739113541017%20-%202.jpg",
+        "/images/1001/0739113541017%20-%203.jpg",
+        "/images/1001/0739113541017%20-%204.jpg",
+        "/images/1001/0739113541017%20-%205.jpg"
+      ],
+      "description": {
+        "ro": "Canapea extensibilă Baran, 3 locuri gri închis, ideală pentru living, cu ladă depozitare și confort zilnic. Material rezistent, preț accesibil. Garanție 2 ani.",
+        "en": "Canapea extensibilă Baran, 3 locuri gri închis, ideală pentru living, cu ladă depozitare și confort zilnic. Material rezistent, preț accesibil. Garanție 2 ani."
+      },
+      "features": {
+        "ro": [
+          "Culoare: gri închis",
+          "Dimensiuni: 210*78*78 / 180*103*43"
+        ],
+        "en": [
+          "Color: gri închis",
+          "Dimensions: 210*78*78 / 180*103*43"
+        ]
+      }
+    },
+    {
+      "id": "1002",
+      "sku": "1002",
+      "name": {
+        "ro": "Canapea extensibila Diana Soft, 3 locuri, material textil maro cappuccino, cu ladă depozitare şi arcuri 227*85*97",
+        "en": "Canapea extensibila Diana Soft, 3 locuri, material textil maro cappuccino, cu ladă depozitare şi arcuri 227*85*97"
+      },
+      "category": "CANAPELE_EXTENSIBILE",
+      "image": "/images/1002/0739113541024%20-%201.jpg",
+      "images": [
+        "/images/1002/0739113541024%20-%201.jpg",
+        "/images/1002/0739113541024%20-%202.jpg",
+        "/images/1002/0739113541024%20-%203.jpg",
+        "/images/1002/0739113541024%20-%204.jpg",
+        "/images/1002/0739113541024%20-%205.jpg"
+      ],
+      "description": {
+        "ro": "Canapea extensibilă Diana Soft maro cappuccino, 3 locuri, cu ladă depozitare și sistem cu arcuri pentru susținere superioară. Material textil rezistent, design modern și ideală pentru utilizare zilnică. Garanție 2 ani.",
+        "en": "Canapea extensibilă Diana Soft maro cappuccino, 3 locuri, cu ladă depozitare și sistem cu arcuri pentru susținere superioară. Material textil rezistent, design modern și ideală pentru utilizare zilnică. Garanție 2 ani."
+      },
+      "features": {
+        "ro": [
+          "Culoare: maro cappuccino",
+          "Dimensiuni: 227*85*97 / 190*118*50"
+        ],
+        "en": [
+          "Color: maro cappuccino",
+          "Dimensions: 227*85*97 / 190*118*50"
+        ]
+      }
+    },
+    {
+      "id": "1003",
+      "sku": "1003",
+      "name": {
+        "ro": "Canapea extensibila Diana Soft, 3 locuri, material textil gri deschis, cu ladă depozitare şi arcuri 227*85*97",
+        "en": "Canapea extensibila Diana Soft, 3 locuri, material textil gri deschis, cu ladă depozitare şi arcuri 227*85*97"
+      },
+      "category": "CANAPELE_EXTENSIBILE",
+      "image": "/images/1003/0739113541031%20-%201.jpg",
+      "images": [
+        "/images/1003/0739113541031%20-%201.jpg",
+        "/images/1003/0739113541031%20-%202.jpg",
+        "/images/1003/0739113541031%20-%203.jpg",
+        "/images/1003/0739113541031%20-%204.jpg",
+        "/images/1003/0739113541031%20-%205.jpg"
+      ],
+      "description": {
+        "ro": "Canapea extensibilă Diana Soft gri deschis, 3 locuri, cu ladă depozitare și sistem cu arcuri pentru susținere superioară. Material textil rezistent, design modern, ideală pentru utilizare zilnică. Garanție 2 ani.",
+        "en": "Canapea extensibilă Diana Soft gri deschis, 3 locuri, cu ladă depozitare și sistem cu arcuri pentru susținere superioară. Material textil rezistent, design modern, ideală pentru utilizare zilnică. Garanție 2 ani."
+      },
+      "features": {
+        "ro": [
+          "Culoare: gri deschis",
+          "Dimensiuni: 227*85*97 / 190*118*50"
+        ],
+        "en": [
+          "Color: gri deschis",
+          "Dimensions: 227*85*97 / 190*118*50"
+        ]
+      }
+    },
+    {
+      "id": "1004",
+      "sku": "1004",
+      "name": {
+        "ro": "Canapea extensibila Diana Soft, 3 locuri, material textil gri închis, cu ladă depozitare şi arcuri 227*85*97",
+        "en": "Canapea extensibila Diana Soft, 3 locuri, material textil gri închis, cu ladă depozitare şi arcuri 227*85*97"
+      },
+      "category": "CANAPELE_EXTENSIBILE",
+      "image": "/images/1004/0739113541048%20-%201.jpg",
+      "images": [
+        "/images/1004/0739113541048%20-%201.jpg",
+        "/images/1004/0739113541048%20-%202.jpg",
+        "/images/1004/0739113541048%20-%203.jpg",
+        "/images/1004/0739113541048%20-%204.jpg",
+        "/images/1004/0739113541048%20-%205.jpg"
+      ],
+      "description": {
+        "ro": "Canapea extensibilă Diana Soft gri închis, 3 locuri, cu ladă depozitare și sistem cu arcuri pentru confort superior. Material textil rezistent, design modern și ideală pentru utilizare zilnică. Garanție 2 ani.",
+        "en": "Canapea extensibilă Diana Soft gri închis, 3 locuri, cu ladă depozitare și sistem cu arcuri pentru confort superior. Material textil rezistent, design modern și ideală pentru utilizare zilnică. Garanție 2 ani."
+      },
+      "features": {
+        "ro": [
+          "Culoare: gri închis",
+          "Dimensiuni: 227*85*97 / 190*118*50"
+        ],
+        "en": [
+          "Color: gri închis",
+          "Dimensions: 227*85*97 / 190*118*50"
+        ]
+      }
+    },
+    {
+      "id": "1006",
+      "sku": "1006",
+      "name": {
+        "ro": "Canapea extensibilă Delhi, 3 locuri, material textil gri deschis, cu ladă depozitare şi arcuri 216*85*85",
+        "en": "Canapea extensibilă Delhi, 3 locuri, material textil gri deschis, cu ladă depozitare şi arcuri 216*85*85"
+      },
+      "category": "CANAPELE_EXTENSIBILE",
+      "image": "/images/1006/0739113541062%20-%201.jpg",
+      "images": [
+        "/images/1006/0739113541062%20-%201.jpg",
+        "/images/1006/0739113541062%20-%202.jpg",
+        "/images/1006/0739113541062%20-%203.jpg",
+        "/images/1006/0739113541062%20-%204.jpg",
+        "/images/1006/0739113541062%20-%205.jpg"
+      ],
+      "description": {
+        "ro": "Canapea extensibilă Delhi, 3 locuri gri deschis, ideală pentru living, cu ladă depozitare și confort zilnic. Material rezistent, preț accesibil. Garanție 2 ani.",
+        "en": "Canapea extensibilă Delhi, 3 locuri gri deschis, ideală pentru living, cu ladă depozitare și confort zilnic. Material rezistent, preț accesibil. Garanție 2 ani."
+      },
+      "features": {
+        "ro": [
+          "Culoare: gri deschis",
+          "Dimensiuni: 216*85*85 / 180*107*48"
+        ],
+        "en": [
+          "Color: gri deschis",
+          "Dimensions: 216*85*85 / 180*107*48"
+        ]
+      }
+    },
+    {
+      "id": "1007",
+      "sku": "1007",
+      "name": {
+        "ro": "Canapea extensibilă Delhi, 3 locuri, material textil gri melanj, cu ladă depozitare şi arcuri 216*85*85",
+        "en": "Canapea extensibilă Delhi, 3 locuri, material textil gri melanj, cu ladă depozitare şi arcuri 216*85*85"
+      },
+      "category": "CANAPELE_EXTENSIBILE",
+      "image": "/images/1007/0739113541079%20-%201.jpg",
+      "images": [
+        "/images/1007/0739113541079%20-%201.jpg",
+        "/images/1007/0739113541079%20-%202.jpg",
+        "/images/1007/0739113541079%20-%203.jpg",
+        "/images/1007/0739113541079%20-%204.jpg",
+        "/images/1007/0739113541079%20-%205.jpg"
+      ],
+      "description": {
+        "ro": "Canapea extensibilă Delhi, 3 locuri gri melanj, ideală pentru living, cu ladă depozitare și confort zilnic. Material durabil, preț accesibil. Garanție 2 ani.",
+        "en": "Canapea extensibilă Delhi, 3 locuri gri melanj, ideală pentru living, cu ladă depozitare și confort zilnic. Material durabil, preț accesibil. Garanție 2 ani."
+      },
+      "features": {
+        "ro": [
+          "Culoare: gri melanj",
+          "Dimensiuni: 216*85*85 / 180*107*48"
+        ],
+        "en": [
+          "Color: gri melanj",
+          "Dimensions: 216*85*85 / 180*107*48"
+        ]
+      }
+    },
+    {
+      "id": "1008",
+      "sku": "1008",
+      "name": {
+        "ro": "Canapea extensibilă Delhi, 3 locuri, material textil verde olive închis, cu ladă depozitare şi arcuri 216*85*85",
+        "en": "Canapea extensibilă Delhi, 3 locuri, material textil verde olive închis, cu ladă depozitare şi arcuri 216*85*85"
+      },
+      "category": "CANAPELE_EXTENSIBILE",
+      "image": "/images/1008/0739113541086%20-%201.jpg",
+      "images": [
+        "/images/1008/0739113541086%20-%201.jpg",
+        "/images/1008/0739113541086%20-%202.jpg",
+        "/images/1008/0739113541086%20-%203.jpg",
+        "/images/1008/0739113541086%20-%204.jpg",
+        "/images/1008/0739113541086%20-%205.jpg"
+      ],
+      "description": {
+        "ro": "Canapea extensibilă Delhi, 3 locuri verde olive închis, ideală pentru living, cu ladă depozitare și confort zilnic. Material rezistent, preț accesibil. Garanție 2 ani.",
+        "en": "Canapea extensibilă Delhi, 3 locuri verde olive închis, ideală pentru living, cu ladă depozitare și confort zilnic. Material rezistent, preț accesibil. Garanție 2 ani."
+      },
+      "features": {
+        "ro": [
+          "Culoare: verde olive închis",
+          "Dimensiuni: 216*85*85 / 180*107*48"
+        ],
+        "en": [
+          "Color: verde olive închis",
+          "Dimensions: 216*85*85 / 180*107*48"
+        ]
+      }
+    },
+    {
+      "id": "1009",
+      "sku": "1009",
+      "name": {
+        "ro": "Canapea extensibilă Delhi, 3 locuri, material textil gri închis, cu ladă depozitare şi arcuri 216*85*85",
+        "en": "Canapea extensibilă Delhi, 3 locuri, material textil gri închis, cu ladă depozitare şi arcuri 216*85*85"
+      },
+      "category": "CANAPELE_EXTENSIBILE",
+      "image": "/images/1009/0739113541093%20-%201.jpg",
+      "images": [
+        "/images/1009/0739113541093%20-%201.jpg",
+        "/images/1009/0739113541093%20-%202.jpg",
+        "/images/1009/0739113541093%20-%203.jpg",
+        "/images/1009/0739113541093%20-%204.jpg",
+        "/images/1009/0739113541093%20-%205.jpg"
+      ],
+      "description": {
+        "ro": "Canapea extensibilă Delhi, 3 locuri gri închis, ideală pentru living, cu ladă depozitare și confort zilnic. Material durabil, preț accesibil. Garanție 2 ani.",
+        "en": "Canapea extensibilă Delhi, 3 locuri gri închis, ideală pentru living, cu ladă depozitare și confort zilnic. Material durabil, preț accesibil. Garanție 2 ani."
+      },
+      "features": {
+        "ro": [
+          "Culoare: gri închis",
+          "Dimensiuni: 216*85*85 / 180*107*48"
+        ],
+        "en": [
+          "Color: gri închis",
+          "Dimensions: 216*85*85 / 180*107*48"
+        ]
+      }
+    },
+    {
+      "id": "1010",
+      "sku": "1010",
+      "name": {
+        "ro": "Canapea extensibilă Delhi, 3 locuri, material textil bleumarin închis, cu ladă depozitare şi arcuri 216*85*85",
+        "en": "Canapea extensibilă Delhi, 3 locuri, material textil bleumarin închis, cu ladă depozitare şi arcuri 216*85*85"
+      },
+      "category": "CANAPELE_EXTENSIBILE",
+      "image": "/images/1010/0739113541109%20-%201.jpg",
+      "images": [
+        "/images/1010/0739113541109%20-%201.jpg",
+        "/images/1010/0739113541109%20-%202.jpg",
+        "/images/1010/0739113541109%20-%203.jpg",
+        "/images/1010/0739113541109%20-%204.jpg",
+        "/images/1010/0739113541109%20-%205.jpg"
+      ],
+      "description": {
+        "ro": "Canapea extensibilă Delhi, 3 locuri bleumarin închis, ideală pentru living, cu ladă depozitare și confort zilnic. Material rezistent, preț accesibil. Garanție 2 ani.",
+        "en": "Canapea extensibilă Delhi, 3 locuri bleumarin închis, ideală pentru living, cu ladă depozitare și confort zilnic. Material rezistent, preț accesibil. Garanție 2 ani."
+      },
+      "features": {
+        "ro": [
+          "Culoare: bleumarin închis",
+          "Dimensiuni: 216*85*85 / 180*107*48"
+        ],
+        "en": [
+          "Color: bleumarin închis",
+          "Dimensions: 216*85*85 / 180*107*48"
+        ]
+      }
+    },
+    {
+      "id": "1011",
+      "sku": "1011",
+      "name": {
+        "ro": "Canapea extensibilă Economix, 3 locuri, material textil gri deschis, cu ladă depozitare şi arcuri 190*88*82",
+        "en": "Canapea extensibilă Economix, 3 locuri, material textil gri deschis, cu ladă depozitare şi arcuri 190*88*82"
+      },
+      "category": "CANAPELE_EXTENSIBILE",
+      "image": "/images/1011/0739113541116%20-%201.jpg",
+      "images": [
+        "/images/1011/0739113541116%20-%201.jpg",
+        "/images/1011/0739113541116%20-%202.jpg",
+        "/images/1011/0739113541116%20-%203.jpg",
+        "/images/1011/0739113541116%20-%204.jpg",
+        "/images/1011/0739113541116%20-%206.jpg",
+        "/images/1011/0739113541116-%205.jpg"
+      ],
+      "description": {
+        "ro": "Canapea extensibilă Economix, 3 locuri gri deschis, ideală pentru living, cu ladă depozitare și confort zilnic. Material durabil, preț accesibil. Garanție 2 ani.",
+        "en": "Canapea extensibilă Economix, 3 locuri gri deschis, ideală pentru living, cu ladă depozitare și confort zilnic. Material durabil, preț accesibil. Garanție 2 ani."
+      },
+      "features": {
+        "ro": [
+          "Culoare: gri deschis",
+          "Dimensiuni: 190*88*82 / 190*110*40"
+        ],
+        "en": [
+          "Color: gri deschis",
+          "Dimensions: 190*88*82 / 190*110*40"
+        ]
+      }
+    },
+    {
+      "id": "1012",
+      "sku": "1012",
+      "name": {
+        "ro": "Canapea extensibilă Economix, 3 locuri, material textil gri închis, cu ladă depozitare şi arcuri 190*88*82",
+        "en": "Canapea extensibilă Economix, 3 locuri, material textil gri închis, cu ladă depozitare şi arcuri 190*88*82"
+      },
+      "category": "CANAPELE_EXTENSIBILE",
+      "image": "/images/1012/0739113541123%20-%201.jpg",
+      "images": [
+        "/images/1012/0739113541123%20-%201.jpg",
+        "/images/1012/0739113541123%20-%202.jpg",
+        "/images/1012/0739113541123%20-%203.jpg",
+        "/images/1012/0739113541123%20-%204.jpg",
+        "/images/1012/0739113541123%20-%205.jpg",
+        "/images/1012/0739113541123%20-%206.jpg"
+      ],
+      "description": {
+        "ro": "Canapea extensibilă Economix, 3 locuri gri închis, ideală pentru living, cu ladă depozitare și confort zilnic. Material rezistent, preț accesibil. Garanție 2 ani.",
+        "en": "Canapea extensibilă Economix, 3 locuri gri închis, ideală pentru living, cu ladă depozitare și confort zilnic. Material rezistent, preț accesibil. Garanție 2 ani."
+      },
+      "features": {
+        "ro": [
+          "Culoare: gri închis",
+          "Dimensiuni: 190*88*82 / 190*110*40"
+        ],
+        "en": [
+          "Color: gri închis",
+          "Dimensions: 190*88*82 / 190*110*40"
+        ]
+      }
+    },
+    {
+      "id": "1013",
+      "sku": "1013",
+      "name": {
+        "ro": "Canapea extensibilă Economix, 3 locuri, material textil bej nisipiu, cu ladă depozitare şi arcuri 190*88*82",
+        "en": "Canapea extensibilă Economix, 3 locuri, material textil bej nisipiu, cu ladă depozitare şi arcuri 190*88*82"
+      },
+      "category": "CANAPELE_EXTENSIBILE",
+      "image": "/images/1013/0739113541130%20-%201.jpg",
+      "images": [
+        "/images/1013/0739113541130%20-%201.jpg",
+        "/images/1013/0739113541130%20-%202.jpg",
+        "/images/1013/0739113541130%20-%205.jpg",
+        "/images/1013/0739113541130%20-%206.jpg",
+        "/images/1013/0739113541130%20-3.jpg",
+        "/images/1013/0739113541130%20-4.jpg"
+      ],
+      "description": {
+        "ro": "Canapea extensibilă Economix bej nisipiu, 3 locuri, cu ladă depozitare și sistem cu arcuri. Confort zilnic, material textil rezistent și design modern la un preț accesibil. Garanție 2 ani.",
+        "en": "Canapea extensibilă Economix bej nisipiu, 3 locuri, cu ladă depozitare și sistem cu arcuri. Confort zilnic, material textil rezistent și design modern la un preț accesibil. Garanție 2 ani."
+      },
+      "features": {
+        "ro": [
+          "Culoare: bej nisipiu",
+          "Dimensiuni: 190*88*82 / 190*110*40"
+        ],
+        "en": [
+          "Color: bej nisipiu",
+          "Dimensions: 190*88*82 / 190*110*40"
+        ]
+      }
+    },
+    {
+      "id": "1014",
+      "sku": "1014",
+      "name": {
+        "ro": "Canapea extensibilă Economix, 3 locuri, material textil negru, cu ladă depozitare şi arcuri 190*88*82",
+        "en": "Canapea extensibilă Economix, 3 locuri, material textil negru, cu ladă depozitare şi arcuri 190*88*82"
+      },
+      "category": "CANAPELE_EXTENSIBILE",
+      "image": "/images/1014/0739113541147%20-%201.jpg",
+      "images": [
+        "/images/1014/0739113541147%20-%201.jpg",
+        "/images/1014/0739113541147%20-%202.jpg",
+        "/images/1014/0739113541147%20-%203.jpg",
+        "/images/1014/0739113541147%20-%204.jpg",
+        "/images/1014/0739113541147%20-%205.jpg",
+        "/images/1014/0739113541147%20-%206.jpg"
+      ],
+      "description": {
+        "ro": "Canapea extensibilă Economix, 3 locuri negru, ideală pentru living, cu ladă depozitare și confort zilnic. Material durabil, preț accesibil. Garanție 2 ani.",
+        "en": "Canapea extensibilă Economix, 3 locuri negru, ideală pentru living, cu ladă depozitare și confort zilnic. Material durabil, preț accesibil. Garanție 2 ani."
+      },
+      "features": {
+        "ro": [
+          "Culoare: negru",
+          "Dimensiuni: 190*88*82 / 190*110*40"
+        ],
+        "en": [
+          "Color: negru",
+          "Dimensions: 190*88*82 / 190*110*40"
+        ]
+      }
+    },
+    {
+      "id": "1015",
+      "sku": "1015",
+      "name": {
+        "ro": "Canapea extensibilă Ekol, 3 locuri, material textil maro, cu ladă depozitare şi arcuri 225*82*92",
+        "en": "Canapea extensibilă Ekol, 3 locuri, material textil maro, cu ladă depozitare şi arcuri 225*82*92"
+      },
+      "category": "CANAPELE_EXTENSIBILE",
+      "image": "/images/1015/0739113541154%20-%201.jpg",
+      "images": [
+        "/images/1015/0739113541154%20-%201.jpg",
+        "/images/1015/0739113541154%20-%202.jpg",
+        "/images/1015/0739113541154%20-%203.jpg",
+        "/images/1015/0739113541154%20-%204.jpg",
+        "/images/1015/0739113541154%20-%205.jpg",
+        "/images/1015/WhatsApp%20Image%202026-01-22%20at%2022.07.12.jpeg"
+      ],
+      "description": {
+        "ro": "Canapea extensibilă Ekol, 3 locuri textil maro, ideală pentru living, cu ladă depozitare și confort zilnic. Material rezistent, preț accesibil. Garanție 2 ani.",
+        "en": "Canapea extensibilă Ekol, 3 locuri textil maro, ideală pentru living, cu ladă depozitare și confort zilnic. Material rezistent, preț accesibil. Garanție 2 ani."
+      },
+      "features": {
+        "ro": [
+          "Culoare: maro",
+          "Dimensiuni: 225*82*92 / 190*110*43"
+        ],
+        "en": [
+          "Color: maro",
+          "Dimensions: 225*82*92 / 190*110*43"
+        ]
+      }
+    },
+    {
+      "id": "1016",
+      "sku": "1016",
+      "name": {
+        "ro": "Canapea extensibilă Fer, 3 locuri, material textil gri deschis, cu ladă depozitare şi arcuri 223*85*97",
+        "en": "Canapea extensibilă Fer, 3 locuri, material textil gri deschis, cu ladă depozitare şi arcuri 223*85*97"
+      },
+      "category": "CANAPELE_EXTENSIBILE",
+      "image": "/images/1016/0739113541161%20-%201.jpg",
+      "images": [
+        "/images/1016/0739113541161%20-%201.jpg",
+        "/images/1016/0739113541161%20-%202.jpg",
+        "/images/1016/0739113541161%20-%203.jpg",
+        "/images/1016/0739113541161%20-%204.jpg",
+        "/images/1016/0739113541161%20-%205.jpg"
+      ],
+      "description": {
+        "ro": "Canapea extensibilă Fer, 3 locuri gri deschis, ideală pentru living, cu ladă depozitare și confort zilnic. Material durabil, preț accesibil. Garanție 2 ani.",
+        "en": "Canapea extensibilă Fer, 3 locuri gri deschis, ideală pentru living, cu ladă depozitare și confort zilnic. Material durabil, preț accesibil. Garanție 2 ani."
+      },
+      "features": {
+        "ro": [
+          "Culoare: gri deschis",
+          "Dimensiuni: 223*85*97 / 190*122*40"
+        ],
+        "en": [
+          "Color: gri deschis",
+          "Dimensions: 223*85*97 / 190*122*40"
+        ]
+      }
+    },
+    {
+      "id": "1017",
+      "sku": "1017",
+      "name": {
+        "ro": "Canapea extensibilă Flamingo, 3 locuri, material textil gri deschis, cu ladă depozitare şi arcuri 219*84*79",
+        "en": "Canapea extensibilă Flamingo, 3 locuri, material textil gri deschis, cu ladă depozitare şi arcuri 219*84*79"
+      },
+      "category": "CANAPELE_EXTENSIBILE",
+      "image": "/images/1017/0739113541178%20-%202.jpg",
+      "images": [
+        "/images/1017/0739113541178%20-%202.jpg",
+        "/images/1017/0739113541178%20-%203.jpg",
+        "/images/1017/0739113541178%20-%204.jpg",
+        "/images/1017/0739113541178%20-%205.jpg",
+        "/images/1017/0739113541178%20-1.jpg"
+      ],
+      "description": {
+        "ro": "Canapea extensibilă Flamingo, 3 locuri gri deschis, ideală pentru living, cu ladă depozitare și confort zilnic. Material rezistent, preț accesibil. Garanție 2 ani.",
+        "en": "Canapea extensibilă Flamingo, 3 locuri gri deschis, ideală pentru living, cu ladă depozitare și confort zilnic. Material rezistent, preț accesibil. Garanție 2 ani."
+      },
+      "features": {
+        "ro": [
+          "Culoare: gri deschis",
+          "Dimensiuni: 219*84*79 / 180*107*43"
+        ],
+        "en": [
+          "Color: gri deschis",
+          "Dimensions: 219*84*79 / 180*107*43"
+        ]
+      }
+    },
+    {
+      "id": "1018",
+      "sku": "1018",
+      "name": {
+        "ro": "Canapea extensibilă Flamingo, 3 locuri, material textil gri, cu ladă depozitare şi arcuri 219*84*79",
+        "en": "Canapea extensibilă Flamingo, 3 locuri, material textil gri, cu ladă depozitare şi arcuri 219*84*79"
+      },
+      "category": "CANAPELE_EXTENSIBILE",
+      "image": "/images/1018/0739113541185%20-%202.jpg",
+      "images": [
+        "/images/1018/0739113541185%20-%202.jpg",
+        "/images/1018/0739113541185%20-%203.jpg",
+        "/images/1018/0739113541185%20-%204.jpg",
+        "/images/1018/0739113541185%20-%205.jpg",
+        "/images/1018/0739113541185%20-1.jpg"
+      ],
+      "description": {
+        "ro": "Canapea extensibilă Flamingo, 3 locuri bej cu dungi, ideală pentru living, cu ladă depozitare și confort zilnic. Material durabil, preț accesibil. Garanție 2 ani.",
+        "en": "Canapea extensibilă Flamingo, 3 locuri bej cu dungi, ideală pentru living, cu ladă depozitare și confort zilnic. Material durabil, preț accesibil. Garanție 2 ani."
+      },
+      "features": {
+        "ro": [
+          "Culoare: gri",
+          "Dimensiuni: 219*84*79 / 180*107*43"
+        ],
+        "en": [
+          "Color: gri",
+          "Dimensions: 219*84*79 / 180*107*43"
+        ]
+      }
+    },
+    {
+      "id": "1019",
+      "sku": "1019",
+      "name": {
+        "ro": "Canapea extensibilă Flamingo Soft, 3 locuri, material textil maro capuccino, cu ladă depozitare şi arcuri 219*84*79",
+        "en": "Canapea extensibilă Flamingo Soft, 3 locuri, material textil maro capuccino, cu ladă depozitare şi arcuri 219*84*79"
+      },
+      "category": "CANAPELE_EXTENSIBILE",
+      "image": "/images/1019/0739113541192%20-%201.jpg",
+      "images": [
+        "/images/1019/0739113541192%20-%201.jpg",
+        "/images/1019/0739113541192%20-%202.jpg",
+        "/images/1019/0739113541192%20-%203.jpg",
+        "/images/1019/0739113541192%20-%204.jpg",
+        "/images/1019/0739113541192%20-%205.jpg"
+      ],
+      "description": {
+        "ro": "Canapea extensibilă Flamingo Soft maro cappuccino, 3 locuri, cu ladă depozitare și sistem cu arcuri pentru confort ridicat. Material textil rezistent, design modern și ideală pentru utilizare zilnică. Garanție 2 ani.",
+        "en": "Canapea extensibilă Flamingo Soft maro cappuccino, 3 locuri, cu ladă depozitare și sistem cu arcuri pentru confort ridicat. Material textil rezistent, design modern și ideală pentru utilizare zilnică. Garanție 2 ani."
+      },
+      "features": {
+        "ro": [
+          "Culoare: maro capuccino",
+          "Dimensiuni: 219*84*79 / 180*107*43"
+        ],
+        "en": [
+          "Color: maro capuccino",
+          "Dimensions: 219*84*79 / 180*107*43"
+        ]
+      }
+    },
+    {
+      "id": "1020",
+      "sku": "1020",
+      "name": {
+        "ro": "Canapea extensibilă Flamingo Soft, 3 locuri, material textil verde salvie, cu ladă depozitare şi arcuri 219*84*79",
+        "en": "Canapea extensibilă Flamingo Soft, 3 locuri, material textil verde salvie, cu ladă depozitare şi arcuri 219*84*79"
+      },
+      "category": "CANAPELE_EXTENSIBILE",
+      "image": "/images/1020/0739113541208%20-%202.jpg",
+      "images": [
+        "/images/1020/0739113541208%20-%202.jpg",
+        "/images/1020/0739113541208%20-%203.jpg",
+        "/images/1020/0739113541208%20-%204.jpg",
+        "/images/1020/0739113541208%20-%205.jpg",
+        "/images/1020/0739113541208%20-1.jpg"
+      ],
+      "description": {
+        "ro": "Canapea extensibilă Flamingo Soft verde salvie, 3 locuri, cu ladă depozitare și sistem cu arcuri pentru confort avansat. Material textil rezistent, design modern și utilizare zilnică. Garanție 2 ani.",
+        "en": "Canapea extensibilă Flamingo Soft verde salvie, 3 locuri, cu ladă depozitare și sistem cu arcuri pentru confort avansat. Material textil rezistent, design modern și utilizare zilnică. Garanție 2 ani."
+      },
+      "features": {
+        "ro": [
+          "Culoare: verde salvie",
+          "Dimensiuni: 219*84*79 / 180*107*43"
+        ],
+        "en": [
+          "Color: verde salvie",
+          "Dimensions: 219*84*79 / 180*107*43"
+        ]
+      }
+    },
+    {
+      "id": "1021",
+      "sku": "1021",
+      "name": {
+        "ro": "Canapea extensibilă Flamingo Soft, 3 locuri, material textil gri deschis, cu ladă depozitare şi arcuri 219*84*79",
+        "en": "Canapea extensibilă Flamingo Soft, 3 locuri, material textil gri deschis, cu ladă depozitare şi arcuri 219*84*79"
+      },
+      "category": "CANAPELE_EXTENSIBILE",
+      "image": "/images/1021/0739113541215%20-%201.jpg",
+      "images": [
+        "/images/1021/0739113541215%20-%201.jpg",
+        "/images/1021/0739113541215%20-%202.jpg",
+        "/images/1021/0739113541215%20-%204.jpg",
+        "/images/1021/0739113541215%20-%205.jpg",
+        "/images/1021/0739113541215-%203.jpg"
+      ],
+      "description": {
+        "ro": "Canapea extensibilă Flamingo Soft gri deschis, 3 locuri, cu ladă depozitare și sistem cu arcuri pentru susținere excelentă. Material textil rezistent, design modern și confort zilnic. Garanție 2 ani.",
+        "en": "Canapea extensibilă Flamingo Soft gri deschis, 3 locuri, cu ladă depozitare și sistem cu arcuri pentru susținere excelentă. Material textil rezistent, design modern și confort zilnic. Garanție 2 ani."
+      },
+      "features": {
+        "ro": [
+          "Culoare: gri deschis",
+          "Dimensiuni: 219*84*79 / 180*107*43"
+        ],
+        "en": [
+          "Color: gri deschis",
+          "Dimensions: 219*84*79 / 180*107*43"
+        ]
+      }
+    },
+    {
+      "id": "1022",
+      "sku": "1022",
+      "name": {
+        "ro": "Canapea extensibilă Flamingo Soft, 3 locuri, material textil gri închis, cu ladă depozitare şi arcuri 219*84*79",
+        "en": "Canapea extensibilă Flamingo Soft, 3 locuri, material textil gri închis, cu ladă depozitare şi arcuri 219*84*79"
+      },
+      "category": "CANAPELE_EXTENSIBILE",
+      "image": "/images/1022/0739113541222%20-%201.jpg",
+      "images": [
+        "/images/1022/0739113541222%20-%201.jpg",
+        "/images/1022/0739113541222%20-%202.jpg",
+        "/images/1022/0739113541222%20-%203.jpg",
+        "/images/1022/0739113541222%20-%204.jpg",
+        "/images/1022/0739113541222%20-%205.jpg"
+      ],
+      "description": {
+        "ro": "Canapea extensibilă Flamingo Soft gri închis, 3 locuri, cu ladă depozitare și sistem cu arcuri pentru susținere superioară. Material textil rezistent, design modern și ideală pentru utilizare zilnică. Garanție 2 ani.",
+        "en": "Canapea extensibilă Flamingo Soft gri închis, 3 locuri, cu ladă depozitare și sistem cu arcuri pentru susținere superioară. Material textil rezistent, design modern și ideală pentru utilizare zilnică. Garanție 2 ani."
+      },
+      "features": {
+        "ro": [
+          "Culoare: gri închis",
+          "Dimensiuni: 219*84*79 / 180*107*43"
+        ],
+        "en": [
+          "Color: gri închis",
+          "Dimensions: 219*84*79 / 180*107*43"
+        ]
+      }
+    },
+    {
+      "id": "1023",
+      "sku": "1023",
+      "name": {
+        "ro": "Canapea extensibilă Flamingo Soft, 3 locuri, material textil bleu deschis, cu ladă depozitare şi arcuri 219*84*79",
+        "en": "Canapea extensibilă Flamingo Soft, 3 locuri, material textil bleu deschis, cu ladă depozitare şi arcuri 219*84*79"
+      },
+      "category": "CANAPELE_EXTENSIBILE",
+      "image": "/images/1023/0739113541239%20-%201.jpg",
+      "images": [
+        "/images/1023/0739113541239%20-%201.jpg",
+        "/images/1023/0739113541239%20-%202.jpg",
+        "/images/1023/0739113541239%20-%203.jpg",
+        "/images/1023/0739113541239%20-%204.jpg",
+        "/images/1023/0739113541239%20-%205.jpg"
+      ],
+      "description": {
+        "ro": "Canapea extensibilă Flamingo Soft bleu deschis, 3 locuri, cu ladă depozitare și sistem cu arcuri pentru confort ridicat. Material textil rezistent, design modern și ideală pentru utilizare zilnică. Garanție 2 ani.",
+        "en": "Canapea extensibilă Flamingo Soft bleu deschis, 3 locuri, cu ladă depozitare și sistem cu arcuri pentru confort ridicat. Material textil rezistent, design modern și ideală pentru utilizare zilnică. Garanție 2 ani."
+      },
+      "features": {
+        "ro": [
+          "Culoare: bleu deschis",
+          "Dimensiuni: 219*84*79 / 180*107*43"
+        ],
+        "en": [
+          "Color: bleu deschis",
+          "Dimensions: 219*84*79 / 180*107*43"
+        ]
+      }
+    },
+    {
+      "id": "1024",
+      "sku": "1024",
+      "name": {
+        "ro": "Canapea extensibilă Hilton, 3 locuri, material textil bej nisipiu, cu ladă depozitare şi arcuri 210*75*85",
+        "en": "Canapea extensibilă Hilton, 3 locuri, material textil bej nisipiu, cu ladă depozitare şi arcuri 210*75*85"
+      },
+      "category": "CANAPELE_EXTENSIBILE",
+      "image": "/images/1024/0739113541246%20-%201.jpg",
+      "images": [
+        "/images/1024/0739113541246%20-%201.jpg",
+        "/images/1024/0739113541246%20-%202.jpg",
+        "/images/1024/0739113541246%20-%203.jpg",
+        "/images/1024/0739113541246%20-%204.jpg",
+        "/images/1024/0739113541246%20-%205.jpg"
+      ],
+      "description": {
+        "ro": "Canapea extensibilă Hilton, 3 locuri bej nisipiu, ideală pentru living, cu ladă depozitare și confort zilnic. Material rezistent, preț accesibil. Garanție 2 ani.",
+        "en": "Canapea extensibilă Hilton, 3 locuri bej nisipiu, ideală pentru living, cu ladă depozitare și confort zilnic. Material rezistent, preț accesibil. Garanție 2 ani."
+      },
+      "features": {
+        "ro": [
+          "Culoare: bej nisipiu",
+          "Dimensiuni: 210*75*85 / 180*100*43"
+        ],
+        "en": [
+          "Color: bej nisipiu",
+          "Dimensions: 210*75*85 / 180*100*43"
+        ]
+      }
+    },
+    {
+      "id": "1025",
+      "sku": "1025",
+      "name": {
+        "ro": "Canapea extensibilă Hilton, 3 locuri, material textil verde olive închis, cu ladă depozitare şi arcuri 210*75*85",
+        "en": "Canapea extensibilă Hilton, 3 locuri, material textil verde olive închis, cu ladă depozitare şi arcuri 210*75*85"
+      },
+      "category": "CANAPELE_EXTENSIBILE",
+      "image": "/images/1025/0739113541253%20-%201.jpg",
+      "images": [
+        "/images/1025/0739113541253%20-%201.jpg",
+        "/images/1025/0739113541253%20-%202.jpg",
+        "/images/1025/0739113541253%20-%203.jpg",
+        "/images/1025/0739113541253%20-%204.jpg",
+        "/images/1025/0739113541253%20-%205.jpg"
+      ],
+      "description": {
+        "ro": "Canapea extensibilă Hilton, 3 locuri verde olive închis, ideală pentru living, cu ladă depozitare și confort zilnic. Material durabil, preț accesibil. Garanție 2 ani.",
+        "en": "Canapea extensibilă Hilton, 3 locuri verde olive închis, ideală pentru living, cu ladă depozitare și confort zilnic. Material durabil, preț accesibil. Garanție 2 ani."
+      },
+      "features": {
+        "ro": [
+          "Culoare: verde olive închis",
+          "Dimensiuni: 210*75*85 / 180*100*43"
+        ],
+        "en": [
+          "Color: verde olive închis",
+          "Dimensions: 210*75*85 / 180*100*43"
+        ]
+      }
+    },
+    {
+      "id": "1026",
+      "sku": "1026",
+      "name": {
+        "ro": "Canapea extensibilă Hilton, 3 locuri, material textil gri melanj, cu ladă depozitare şi arcuri 210*75*85",
+        "en": "Canapea extensibilă Hilton, 3 locuri, material textil gri melanj, cu ladă depozitare şi arcuri 210*75*85"
+      },
+      "category": "CANAPELE_EXTENSIBILE",
+      "image": "/images/1026/canapea%200739113541260%20-%201.jpg",
+      "images": [
+        "/images/1026/canapea%200739113541260%20-%201.jpg",
+        "/images/1026/canapea%200739113541260%20-%202.jpg",
+        "/images/1026/canapea%200739113541260%20-%203.jpg",
+        "/images/1026/canapea%200739113541260%20-%204.jpg",
+        "/images/1026/canapea%200739113541260%20-%205.jpg"
+      ],
+      "description": {
+        "ro": "Canapea extensibilă Hilton, 3 locuri gri melanj, ideală pentru living, cu ladă depozitare și confort zilnic. Material rezistent, preț accesibil. Garanție 2 ani.",
+        "en": "Canapea extensibilă Hilton, 3 locuri gri melanj, ideală pentru living, cu ladă depozitare și confort zilnic. Material rezistent, preț accesibil. Garanție 2 ani."
+      },
+      "features": {
+        "ro": [
+          "Culoare: gri melanj",
+          "Dimensiuni: 210*75*85 / 180*100*43"
+        ],
+        "en": [
+          "Color: gri melanj",
+          "Dimensions: 210*75*85 / 180*100*43"
+        ]
+      }
+    },
+    {
+      "id": "1027",
+      "sku": "1027",
+      "name": {
+        "ro": "Canapea extensibilă Hilton, 3 locuri, material textil bleumarin închis, cu ladă depozitare şi arcuri 210*75*85",
+        "en": "Canapea extensibilă Hilton, 3 locuri, material textil bleumarin închis, cu ladă depozitare şi arcuri 210*75*85"
+      },
+      "category": "CANAPELE_EXTENSIBILE",
+      "image": "/images/1027/0739113541277%20-%201.jpg",
+      "images": [
+        "/images/1027/0739113541277%20-%201.jpg",
+        "/images/1027/0739113541277%20-%202.jpg",
+        "/images/1027/0739113541277%20-%203.jpg",
+        "/images/1027/0739113541277%20-%204.jpg",
+        "/images/1027/0739113541277%20-%205.jpg"
+      ],
+      "description": {
+        "ro": "Canapea extensibilă Hilton, 3 locuri bleumarin închis, ideală pentru living, cu ladă depozitare și confort zilnic. Material durabil, preț accesibil. Garanție 2 ani.",
+        "en": "Canapea extensibilă Hilton, 3 locuri bleumarin închis, ideală pentru living, cu ladă depozitare și confort zilnic. Material durabil, preț accesibil. Garanție 2 ani."
+      },
+      "features": {
+        "ro": [
+          "Culoare: bleumarin închis",
+          "Dimensiuni: 210*75*85 / 180*100*43"
+        ],
+        "en": [
+          "Color: bleumarin închis",
+          "Dimensions: 210*75*85 / 180*100*43"
+        ]
+      }
+    },
+    {
+      "id": "1028",
+      "sku": "1028",
+      "name": {
+        "ro": "Canapea extensibilă Loren, 3 locuri, material textil bej deschis, cu ladă depozitare şi arcuri 204*86*87",
+        "en": "Canapea extensibilă Loren, 3 locuri, material textil bej deschis, cu ladă depozitare şi arcuri 204*86*87"
+      },
+      "category": "CANAPELE_EXTENSIBILE",
+      "image": "/images/1028/canapea%200739113541284%20-%201.jpg",
+      "images": [
+        "/images/1028/canapea%200739113541284%20-%201.jpg",
+        "/images/1028/canapea%200739113541284%20-%202.jpg",
+        "/images/1028/canapea%200739113541284%20-%203.jpg",
+        "/images/1028/canapea%200739113541284%20-%204.jpg",
+        "/images/1028/canapea%200739113541284%20-%205.jpg"
+      ],
+      "description": {
+        "ro": "Canapea extensibilă Loren, 3 locuri bej deschis, ideală pentru living, cu ladă depozitare și confort zilnic. Material rezistent, preț accesibil. Garanție 2 ani.",
+        "en": "Canapea extensibilă Loren, 3 locuri bej deschis, ideală pentru living, cu ladă depozitare și confort zilnic. Material rezistent, preț accesibil. Garanție 2 ani."
+      },
+      "features": {
+        "ro": [
+          "Culoare: bej deschis",
+          "Dimensiuni: 204*86*87 / 180*112*42"
+        ],
+        "en": [
+          "Color: bej deschis",
+          "Dimensions: 204*86*87 / 180*112*42"
+        ]
+      }
+    },
+    {
+      "id": "1029",
+      "sku": "1029",
+      "name": {
+        "ro": "Canapea extensibilă Marbella, 3 locuri, material textil crem texturat, cu ladă depozitare şi arcuri 210*78*78",
+        "en": "Canapea extensibilă Marbella, 3 locuri, material textil crem texturat, cu ladă depozitare şi arcuri 210*78*78"
+      },
+      "category": "CANAPELE_EXTENSIBILE",
+      "image": "/images/1029/1029%20a.png",
+      "images": [
+        "/images/1029/1029%20a.png",
+        "/images/1029/1029%20b.png",
+        "/images/1029/1029%20c.png",
+        "/images/1029/1029%20d.png",
+        "/images/1029/1029%20e.png",
+        "/images/1029/1029%20f.png"
+      ],
+      "description": {
+        "ro": "Canapea extensibilă Marbella, 3 locuri crem texturat, ideală pentru living, cu ladă depozitare și confort zilnic. Material durabil, preț accesibil. Garanție 2 ani.",
+        "en": "Canapea extensibilă Marbella, 3 locuri crem texturat, ideală pentru living, cu ladă depozitare și confort zilnic. Material durabil, preț accesibil. Garanție 2 ani."
+      },
+      "features": {
+        "ro": [
+          "Culoare: crem texturat",
+          "Dimensiuni: 210*78*78 / 180*103*43"
+        ],
+        "en": [
+          "Color: crem texturat",
+          "Dimensions: 210*78*78 / 180*103*43"
+        ]
+      }
+    },
+    {
+      "id": "1030",
+      "sku": "1030",
+      "name": {
+        "ro": "Canapea extensibilă Marbella, 3 locuri, material textil gri melanj, cu ladă depozitare şi arcuri 210*78*78",
+        "en": "Canapea extensibilă Marbella, 3 locuri, material textil gri melanj, cu ladă depozitare şi arcuri 210*78*78"
+      },
+      "category": "CANAPELE_EXTENSIBILE",
+      "image": "/images/1030/0739113541307%20(1).jpg",
+      "images": [
+        "/images/1030/0739113541307%20(1).jpg",
+        "/images/1030/0739113541307%20(3).jpg",
+        "/images/1030/0739113541307%20(4).jpg",
+        "/images/1030/0739113541307%20(5).jpg",
+        "/images/1030/0739113541307%20(6).jpg",
+        "/images/1030/0739113541307%20(7).jpg"
+      ],
+      "description": {
+        "ro": "Canapea extensibilă Marbella gri melanj, 3 locuri, cu ladă depozitare și sistem cu arcuri pentru confort zilnic. Material textil durabil, design modern și preț accesibil. Garanție 2 ani.",
+        "en": "Canapea extensibilă Marbella gri melanj, 3 locuri, cu ladă depozitare și sistem cu arcuri pentru confort zilnic. Material textil durabil, design modern și preț accesibil. Garanție 2 ani."
+      },
+      "features": {
+        "ro": [
+          "Culoare: gri melanj",
+          "Dimensiuni: 210*78*78 / 180*103*43"
+        ],
+        "en": [
+          "Color: gri melanj",
+          "Dimensions: 210*78*78 / 180*103*43"
+        ]
+      }
+    },
+    {
+      "id": "1031",
+      "sku": "1031",
+      "name": {
+        "ro": "Canapea extensibilă Marbella, 3 locuri, material textil bej nisipiu, cu ladă depozitare şi arcuri 210*78*78",
+        "en": "Canapea extensibilă Marbella, 3 locuri, material textil bej nisipiu, cu ladă depozitare şi arcuri 210*78*78"
+      },
+      "category": "CANAPELE_EXTENSIBILE",
+      "image": "/images/1031/0739113541314%20-%201.jpg",
+      "images": [
+        "/images/1031/0739113541314%20-%201.jpg",
+        "/images/1031/0739113541314%20-%202.jpg",
+        "/images/1031/0739113541314%20-%203.jpg",
+        "/images/1031/0739113541314%20-%204.jpg",
+        "/images/1031/0739113541314%20-%205.jpg",
+        "/images/1031/0739113541314%20-%206.jpg"
+      ],
+      "description": {
+        "ro": "Canapea extensibilă Marbella bej nisipiu, 3 locuri, cu ladă depozitare și sistem cu arcuri pentru confort zilnic. Material textil rezistent, design modern și preț accesibil. Garanție 2 ani.",
+        "en": "Canapea extensibilă Marbella bej nisipiu, 3 locuri, cu ladă depozitare și sistem cu arcuri pentru confort zilnic. Material textil rezistent, design modern și preț accesibil. Garanție 2 ani."
+      },
+      "features": {
+        "ro": [
+          "Culoare: bej nisipiu",
+          "Dimensiuni: 210*78*78 / 180*103*43"
+        ],
+        "en": [
+          "Color: bej nisipiu",
+          "Dimensions: 210*78*78 / 180*103*43"
+        ]
+      }
+    },
+    {
+      "id": "1032",
+      "sku": "1032",
+      "name": {
+        "ro": "Canapea extensibilă Marbella, 3 locuri, material textil gri, cu ladă depozitare şi arcuri 210*78*78",
+        "en": "Canapea extensibilă Marbella, 3 locuri, material textil gri, cu ladă depozitare şi arcuri 210*78*78"
+      },
+      "category": "CANAPELE_EXTENSIBILE",
+      "image": "/images/1032/0739113541321%20-%201.jpg",
+      "images": [
+        "/images/1032/0739113541321%20-%201.jpg",
+        "/images/1032/0739113541321%20-%202.jpg",
+        "/images/1032/0739113541321%20-%203.jpg",
+        "/images/1032/0739113541321%20-%204.jpg",
+        "/images/1032/0739113541321%20-%205.jpg",
+        "/images/1032/0739113541321%20-%206.jpg"
+      ],
+      "description": {
+        "ro": "Canapea extensibilă Marbella, 3 locuri bej cu dungi gri, ideală pentru living, cu ladă depozitare și confort zilnic. Material rezistent, preț accesibil. Garanție 2 ani.",
+        "en": "Canapea extensibilă Marbella, 3 locuri bej cu dungi gri, ideală pentru living, cu ladă depozitare și confort zilnic. Material rezistent, preț accesibil. Garanție 2 ani."
+      },
+      "features": {
+        "ro": [
+          "Culoare: gri",
+          "Dimensiuni: 210*78*78 / 180*103*43"
+        ],
+        "en": [
+          "Color: gri",
+          "Dimensions: 210*78*78 / 180*103*43"
+        ]
+      }
+    },
+    {
+      "id": "1033",
+      "sku": "1033",
+      "name": {
+        "ro": "Canapea extensibilă Marbella, 3 locuri, material textil negru, cu ladă depozitare şi arcuri 210*78*78",
+        "en": "Canapea extensibilă Marbella, 3 locuri, material textil negru, cu ladă depozitare şi arcuri 210*78*78"
+      },
+      "category": "CANAPELE_EXTENSIBILE",
+      "image": "/images/1033/0739113541338%20-%201.jpg",
+      "images": [
+        "/images/1033/0739113541338%20-%201.jpg",
+        "/images/1033/0739113541338%20-%202.jpg",
+        "/images/1033/0739113541338%20-%203.jpg",
+        "/images/1033/0739113541338%20-%204.jpg",
+        "/images/1033/0739113541338%20-%205.jpg",
+        "/images/1033/0739113541338%20-%206.jpg"
+      ],
+      "description": {
+        "ro": "Canapea extensibilă Marbella, 3 locuri negru, ideală pentru living, cu ladă depozitare și confort zilnic. Material durabil, preț accesibil. Garanție 2 ani.",
+        "en": "Canapea extensibilă Marbella, 3 locuri negru, ideală pentru living, cu ladă depozitare și confort zilnic. Material durabil, preț accesibil. Garanție 2 ani."
+      },
+      "features": {
+        "ro": [
+          "Culoare: negru",
+          "Dimensiuni: 210*78*78 / 180*103*43"
+        ],
+        "en": [
+          "Color: negru",
+          "Dimensions: 210*78*78 / 180*103*43"
+        ]
+      }
+    },
+    {
+      "id": "1034",
+      "sku": "1034",
+      "name": {
+        "ro": "Canapea extensibilă Sanem, 3 locuri, material textil gri deschis, cu ladă depozitare şi arcuri 215*82*80",
+        "en": "Canapea extensibilă Sanem, 3 locuri, material textil gri deschis, cu ladă depozitare şi arcuri 215*82*80"
+      },
+      "category": "CANAPELE_EXTENSIBILE",
+      "image": "/images/1034/0739113541345%20-%201.jpg",
+      "images": [
+        "/images/1034/0739113541345%20-%201.jpg",
+        "/images/1034/0739113541345%20-%202.jpg",
+        "/images/1034/0739113541345%20-%203.jpg",
+        "/images/1034/0739113541345%20-%204.jpg",
+        "/images/1034/0739113541345%20-%205.jpg"
+      ],
+      "description": {
+        "ro": "Canapea extensibilă Sanem, 3 locuri gri deschis, ideală pentru living, cu ladă depozitare și confort zilnic. Material rezistent, preț accesibil. Garanție 2 ani.",
+        "en": "Canapea extensibilă Sanem, 3 locuri gri deschis, ideală pentru living, cu ladă depozitare și confort zilnic. Material rezistent, preț accesibil. Garanție 2 ani."
+      },
+      "features": {
+        "ro": [
+          "Culoare: gri deschis",
+          "Dimensiuni: 215*82*80 / 180*104*43"
+        ],
+        "en": [
+          "Color: gri deschis",
+          "Dimensions: 215*82*80 / 180*104*43"
+        ]
+      }
+    },
+    {
+      "id": "1035",
+      "sku": "1035",
+      "name": {
+        "ro": "Canapea extensibilă Sanem, 3 locuri, material textil gri melanj, cu ladă depozitare şi arcuri 215*82*80",
+        "en": "Canapea extensibilă Sanem, 3 locuri, material textil gri melanj, cu ladă depozitare şi arcuri 215*82*80"
+      },
+      "category": "CANAPELE_EXTENSIBILE",
+      "image": "/images/1035/0739113541352%20-%201.jpg",
+      "images": [
+        "/images/1035/0739113541352%20-%201.jpg",
+        "/images/1035/0739113541352%20-%202.jpg",
+        "/images/1035/0739113541352%20-%203.jpg",
+        "/images/1035/0739113541352%20-%204.jpg",
+        "/images/1035/0739113541352%20-%205.jpg"
+      ],
+      "description": {
+        "ro": "Canapea extensibilă Sanem, 3 locuri gri melanj, ideală pentru living, cu ladă depozitare și confort zilnic. Material durabil, preț accesibil. Garanție 2 ani.",
+        "en": "Canapea extensibilă Sanem, 3 locuri gri melanj, ideală pentru living, cu ladă depozitare și confort zilnic. Material durabil, preț accesibil. Garanție 2 ani."
+      },
+      "features": {
+        "ro": [
+          "Culoare: gri melanj",
+          "Dimensiuni: 215*82*80 / 180*104*43"
+        ],
+        "en": [
+          "Color: gri melanj",
+          "Dimensions: 215*82*80 / 180*104*43"
+        ]
+      }
+    },
+    {
+      "id": "1036",
+      "sku": "1036",
+      "name": {
+        "ro": "Canapea extensibilă Sanem, 3 locuri, material textil bej nisipiu, cu ladă depozitare şi arcuri 215*82*80",
+        "en": "Canapea extensibilă Sanem, 3 locuri, material textil bej nisipiu, cu ladă depozitare şi arcuri 215*82*80"
+      },
+      "category": "CANAPELE_EXTENSIBILE",
+      "image": "/images/1036/0739113541369%20-%201.jpg",
+      "images": [
+        "/images/1036/0739113541369%20-%201.jpg",
+        "/images/1036/0739113541369%20-%202.jpg",
+        "/images/1036/0739113541369%20-%203.jpg",
+        "/images/1036/0739113541369%20-%204.jpg",
+        "/images/1036/0739113541369%20-%205.jpg"
+      ],
+      "description": {
+        "ro": "Canapea extensibilă Sanem, 3 locuri bej nisipiu, ideală pentru living, cu ladă depozitare și confort zilnic. Material rezistent, preț accesibil. Garanție 2 ani",
+        "en": "Canapea extensibilă Sanem, 3 locuri bej nisipiu, ideală pentru living, cu ladă depozitare și confort zilnic. Material rezistent, preț accesibil. Garanție 2 ani"
+      },
+      "features": {
+        "ro": [
+          "Culoare: bej nisipiu",
+          "Dimensiuni: 215*82*80 / 180*104*43"
+        ],
+        "en": [
+          "Color: bej nisipiu",
+          "Dimensions: 215*82*80 / 180*104*43"
+        ]
+      }
+    },
+    {
+      "id": "1037",
+      "sku": "1037",
+      "name": {
+        "ro": "Canapea extensibilă Sofya, 3 locuri, material textil gri deschis, cu ladă depozitare şi arcuri 212*86*93",
+        "en": "Canapea extensibilă Sofya, 3 locuri, material textil gri deschis, cu ladă depozitare şi arcuri 212*86*93"
+      },
+      "category": "CANAPELE_EXTENSIBILE",
+      "image": "/images/1037/1037%20a.png",
+      "images": [
+        "/images/1037/1037%20a.png",
+        "/images/1037/1037%20b.jpg",
+        "/images/1037/1037%20c.jpg",
+        "/images/1037/1037%20d.jpg"
+      ],
+      "description": {
+        "ro": "Canapea extensibilă Sofya, 3 locuri gri deschis, ideală pentru living, cu ladă depozitare și confort zilnic. Material durabil, preț accesibil. Garanție 2 ani.",
+        "en": "Canapea extensibilă Sofya, 3 locuri gri deschis, ideală pentru living, cu ladă depozitare și confort zilnic. Material durabil, preț accesibil. Garanție 2 ani."
+      },
+      "features": {
+        "ro": [
+          "Culoare: gri deschis",
+          "Dimensiuni: 212*86*93 / 190*115*51"
+        ],
+        "en": [
+          "Color: gri deschis",
+          "Dimensions: 212*86*93 / 190*115*51"
+        ]
+      }
+    },
+    {
+      "id": "1038",
+      "sku": "1038",
+      "name": {
+        "ro": "Canapea extensibilă Verton, 3 locuri, material textil bej, cu ladă depozitare şi arcuri 210*78*78",
+        "en": "Canapea extensibilă Verton, 3 locuri, material textil bej, cu ladă depozitare şi arcuri 210*78*78"
+      },
+      "category": "CANAPELE_EXTENSIBILE",
+      "image": "/images/1038/0739113541383%20-%201.jpg",
+      "images": [
+        "/images/1038/0739113541383%20-%201.jpg",
+        "/images/1038/0739113541383%20-%202.jpg",
+        "/images/1038/0739113541383%20-%203.jpg",
+        "/images/1038/0739113541383%20-%204.jpg",
+        "/images/1038/0739113541383%20-%205.jpg",
+        "/images/1038/0739113541383%20-%206.jpg"
+      ],
+      "description": {
+        "ro": "Canapea extensibilă Verton, 3 locuri bej, ideală pentru living, cu ladă depozitare și confort zilnic. Material rezistent, preț accesibil. Garanție 2 ani.",
+        "en": "Canapea extensibilă Verton, 3 locuri bej, ideală pentru living, cu ladă depozitare și confort zilnic. Material rezistent, preț accesibil. Garanție 2 ani."
+      },
+      "features": {
+        "ro": [
+          "Culoare: bej",
+          "Dimensiuni: 210*78*78 / 180*103*43"
+        ],
+        "en": [
+          "Color: bej",
+          "Dimensions: 210*78*78 / 180*103*43"
+        ]
+      }
+    },
+    {
+      "id": "1039",
+      "sku": "1039",
+      "name": {
+        "ro": "Canapea extensibilă Verton, 3 locuri, material textil bleumarin închis, cu ladă depozitare şi arcuri 210*78*78",
+        "en": "Canapea extensibilă Verton, 3 locuri, material textil bleumarin închis, cu ladă depozitare şi arcuri 210*78*78"
+      },
+      "category": "CANAPELE_EXTENSIBILE",
+      "image": "/images/1039/0739113541390%20-%201.jpg",
+      "images": [
+        "/images/1039/0739113541390%20-%201.jpg",
+        "/images/1039/0739113541390%20-%202.jpg",
+        "/images/1039/0739113541390%20-%203.jpg",
+        "/images/1039/0739113541390%20-%204.jpg",
+        "/images/1039/0739113541390%20-%205.jpg",
+        "/images/1039/0739113541390%20-6.jpg"
+      ],
+      "description": {
+        "ro": "Canapea extensibilă Verton, 3 locuri bleumarin închis, ideală pentru living, cu ladă depozitare și confort zilnic. Material durabil, preț accesibil. Garanție 2 ani.",
+        "en": "Canapea extensibilă Verton, 3 locuri bleumarin închis, ideală pentru living, cu ladă depozitare și confort zilnic. Material durabil, preț accesibil. Garanție 2 ani."
+      },
+      "features": {
+        "ro": [
+          "Culoare: bleumarin închis",
+          "Dimensiuni: 210*78*78 / 180*103*43"
+        ],
+        "en": [
+          "Color: bleumarin închis",
+          "Dimensions: 210*78*78 / 180*103*43"
+        ]
+      }
+    },
+    {
+      "id": "1040",
+      "sku": "1040",
+      "name": {
+        "ro": "Canapea extensibilă Verton, 3 locuri, material textil gri melanj, cu ladă depozitare şi arcuri 210*78*78",
+        "en": "Canapea extensibilă Verton, 3 locuri, material textil gri melanj, cu ladă depozitare şi arcuri 210*78*78"
+      },
+      "category": "CANAPELE_EXTENSIBILE",
+      "image": "/images/1040/0739113541406%20-%201.jpg",
+      "images": [
+        "/images/1040/0739113541406%20-%201.jpg",
+        "/images/1040/0739113541406%20-%202.jpg",
+        "/images/1040/0739113541406%20-%203.jpg",
+        "/images/1040/0739113541406%20-%204.jpg",
+        "/images/1040/0739113541406%20-%205.jpg",
+        "/images/1040/0739113541406%20-%206.jpg"
+      ],
+      "description": {
+        "ro": "Canapea extensibilă Verton gri melanj, 3 locuri, cu ladă depozitare și sistem cu arcuri pentru confort superior. Design modern, material textil rezistent și utilizare zilnică. Garanție 2 ani.",
+        "en": "Canapea extensibilă Verton gri melanj, 3 locuri, cu ladă depozitare și sistem cu arcuri pentru confort superior. Design modern, material textil rezistent și utilizare zilnică. Garanție 2 ani."
+      },
+      "features": {
+        "ro": [
+          "Culoare: gri melanj",
+          "Dimensiuni: 210*78*78 / 180*103*43"
+        ],
+        "en": [
+          "Color: gri melanj",
+          "Dimensions: 210*78*78 / 180*103*43"
+        ]
+      }
+    },
+    {
+      "id": "1041",
+      "sku": "1041",
+      "name": {
+        "ro": "Canapea extensibilă Verton, 3 locuri, material textil gri închis, cu ladă depozitare şi arcuri 210*78*78",
+        "en": "Canapea extensibilă Verton, 3 locuri, material textil gri închis, cu ladă depozitare şi arcuri 210*78*78"
+      },
+      "category": "CANAPELE_EXTENSIBILE",
+      "image": "/images/1041/0739113541413%20-%201.jpg",
+      "images": [
+        "/images/1041/0739113541413%20-%201.jpg",
+        "/images/1041/0739113541413%20-%203.jpg",
+        "/images/1041/0739113541413%20-%204.jpg",
+        "/images/1041/0739113541413%20-%205.jpg",
+        "/images/1041/0739113541413%20-%206.jpg",
+        "/images/1041/0739113541413%20-2.jpg"
+      ],
+      "description": {
+        "ro": "Canapea extensibilă Verton gri închis, 3 locuri, cu ladă depozitare și sistem cu arcuri pentru susținere excelentă. Material textil rezistent, design modern și ideală pentru utilizare zilnică. Garanție 2 ani.",
+        "en": "Canapea extensibilă Verton gri închis, 3 locuri, cu ladă depozitare și sistem cu arcuri pentru susținere excelentă. Material textil rezistent, design modern și ideală pentru utilizare zilnică. Garanție 2 ani."
+      },
+      "features": {
+        "ro": [
+          "Culoare: gri închis",
+          "Dimensiuni: 210*78*78 / 180*103*43"
+        ],
+        "en": [
+          "Color: gri închis",
+          "Dimensions: 210*78*78 / 180*103*43"
+        ]
+      }
+    }
+  ]
+}
